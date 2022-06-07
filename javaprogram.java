@@ -5,6 +5,7 @@ public static void main(String[] args)
 // character whose ASCII value to be found  
 char ch1 = 'a';  
 char ch2 = 'b';  
+  char ch3='c';
 // variable that stores the integer value of the character  
 int asciivalue1 = ch1;  
 int asciivalue2 = ch2;  

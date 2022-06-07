@@ -7,6 +7,7 @@ public class Systemexit
       }
       catch (Throwable e) {
           e.printStackTrace();
+          int c;
       }
     }
 
